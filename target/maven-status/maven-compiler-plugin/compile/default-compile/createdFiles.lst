@@ -1,0 +1,9 @@
+springkafka\Consumer.class
+springkafka\Producer.class
+kafkatest\Consumer.class
+springkafka\KafkaConfig.class
+kafkatest\Test.class
+springkafka\Producer$1.class
+kafkatest\Producer.class
+springkafka\Consumer$SimpleConsumerListener.class
+kafkatest\Consumer$1.class
